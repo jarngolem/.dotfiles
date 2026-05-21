@@ -15,6 +15,7 @@ PS1="${GREEN}\u@\h${RESET}:${BLUE}\w${RESET} ${YELLOW}\$(parse_git_branch)${RESE
 alias ll='ls -lah'
 alias gs='git status'
 alias v='nvim'
+alias c='clear'
 
 # Editor
 export EDITOR=nvim
